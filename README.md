@@ -108,7 +108,7 @@ Relationships were created between the dimension tables and Sales_Data to suppor
 ## 📸 Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](page1-executive-overview.png)
+executive overview.png
 
 ### Segment Analysis
 ![Segment Analysis](page2-segment-analysis.png)
