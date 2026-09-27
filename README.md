@@ -105,6 +105,16 @@ Relationships were created between the dimension tables and Sales_Data to suppor
 - Data Visualization
 - Business Analysis
 - Dashboard Design
+## 📸 Dashboard Preview
+
+### Executive Overview
+![Executive Overview](page1-executive-overview.png)
+
+### Segment Analysis
+![Segment Analysis](page2-segment-analysis.png)
+
+### Product & Profit Analysis
+![Product & Profit Analysis](page3-product-profit-analysis.png)
 
 ## 👩‍💻 Author
 
