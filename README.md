@@ -114,7 +114,7 @@ executive overview.png
 product profit aalysis.png
 
 ### Product & Profit Analysis
-![Product & Profit Analysis](page3-product-profit-analysis.png)
+segment analysis.png
 
 ## 👩‍💻 Author
 
