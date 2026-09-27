@@ -111,7 +111,7 @@ Relationships were created between the dimension tables and Sales_Data to suppor
 executive overview.png
 
 ### Segment Analysis
-![Segment Analysis](page2-segment-analysis.png)
+product profit aalysis.png
 
 ### Product & Profit Analysis
 ![Product & Profit Analysis](page3-product-profit-analysis.png)
